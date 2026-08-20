@@ -3,7 +3,7 @@ AI Personal Trainer - Streamlit App
 Collects structured user info and generates a personalized weekly workout plan via the Groq API.
 
 Run locally:
-    pip install streamlit anthropic
+    pip install streamlit
     Add GROQ_API_KEY and GROQ_MODEL to .env
     streamlit run workout_planner_app.py
 """
