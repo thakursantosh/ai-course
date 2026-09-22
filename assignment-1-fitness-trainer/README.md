@@ -1,5 +1,5 @@
-# session2-assignment-fitness-trainer
-Session2 Assignment to create a fitness trainer
+# assignment-1-fitness-trainer
+Assignment-1 to create a fitness trainer
 
 # Pre-requisite
 
